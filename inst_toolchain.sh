@@ -14,7 +14,7 @@ GNU_TOOLCHAIN_DIR=${WORK_DIR}'gnu_toolchain/'
 MOD_SPIKE_DIR=${WORK_DIR}'mod-spike/'
 
 welcome() {
-  echo Hello $USER! Welcome to Bug Bounty Program from Incore Semiconductors.
+  echo Hello $USER! 
   echo This installation script will help you to get started with setting up requirements.
   sudo apt-get update
   sudo apt install git
